@@ -1,7 +1,7 @@
 # DiceeApp
 
 An application that rolls dice randomly for you.
-It was developed just for learn how a Flutter app with a Stateful Widget works.
+I learned about Stateful Widgets with this project.
 
 ## Screenshot
 
